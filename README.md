@@ -1,1 +1,1 @@
-# LendingClubCaseStuday
+# LendingClubCaseStudy
