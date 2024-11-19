@@ -18,7 +18,7 @@ Ultimately, the company aims to understand the key drivers or predictive variabl
 
 ### Objectives
 
-The objective is to pinpoint applicants at risk of defaulting on loans, enabling a reduction in credit losses. This case study aims to achieve this goal through exploratory data analysis (EDA) using the provided [dataset](./loan.csv).
+The objective is to pinpoint applicants at risk of defaulting on loans, enabling a reduction in credit losses. This case study aims to achieve this goal through exploratory data analysis (EDA) 
 
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
@@ -29,53 +29,53 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 
 ## Conclusions
 
-**Implement Stricter Criteria for Grades B, C, and D:  **
+1. Implement Stricter Criteria for Grades B, C, and D:  
   - Apply stricter risk assessment and underwriting criteria for applicants falling into Grades B, C, and D to minimize default risks.
 
-**Focus on Subgrades B3, B4, and B5:  **
+2. Focus on Subgrades B3, B4, and B5:  
   - Pay special attention to applicants with Subgrades B3, B4, and B5.  
   - Consider additional risk mitigation measures, such as offering lower loan amounts for these subgrades to reduce default rates.
 
-**Evaluate and Limit 60-Month Loans: ** 
+3. Evaluate and Limit 60-Month Loans:  
   - Evaluate the risk associated with 60-month loans.  
   - Consider limiting the maximum term or adjusting interest rates for longer-term loans to decrease the likelihood of defaults.
 
-**Comprehensive Credit Scoring System: ** 
+4. Comprehensive Credit Scoring System:  
   - Develop a comprehensive credit scoring system that incorporates various risk-related attributes.  
   - Relying on experience alone might not be sufficient to gauge creditworthiness.
 
-**Capitalizing on Market Growth:  **
+5. Capitalizing on Market Growth:  
   - Capitalize on the market's growth trend observed from 2007 to 2011 by maintaining a competitive edge in the industry.  
   - Ensure robust risk management practices to safeguard against increasing risks.
 
-**Anticipate Peak Periods:  **
+6. Anticipate Peak Periods:  
   - Anticipate increased loan applications during peak periods such as December and Q4.  
   - Ensure efficient processing to meet customer demands during these busy seasons.
 
-**Careful Evaluation for Debt Consolidation Loans:  **
+7. Careful Evaluation for Debt Consolidation Loans:  
   - Carefully evaluate applicants seeking debt consolidation loans.  
   - Consider potential interest rate adjustments or offering financial counseling services to manage the associated risks
   
- **Consider Housing Stability:  **
+8. Consider Housing Stability:  
   - Take housing status into account during the underwriting process.  
   - Assess housing stability and its impact on the applicant's ability to repay the loan.
 
-**Review Verification Process:  **
+9. Review Verification Process:  
   - Review the verification process to ensure effective assessment of applicant creditworthiness.  
   - Consider improvements or adjustments based on the review findings.
 
-**Monitor & Adjust for Regional Risk Trends:  **
+10. Monitor & Adjust for Regional Risk Trends:  
   - Monitor regional risk trends, especially in states like California, Florida, and New York.  
   - Adjust lending strategies or rates accordingly in high-risk regions.
 
-**Thorough Assessment for High Loan Amounts:  **
+11. Thorough Assessment for High Loan Amounts:  
   - Conduct more thorough assessments for loan amounts of $15,000 or higher.  
   - Consider capping loan amounts for higher-risk applicants to mitigate potential defaults.
 
-**Adjust Interest Rates Based on DTI Ratios:  **
+12. Adjust Interest Rates Based on DTI Ratios:  
   - Review the interest rate determination process and consider adjusting rates based on Debt-to-Income (DTI) ratios.  
   - Align rates with the borrower’s ability to repay.
 
-**Consider Income Levels for Affordability:  **
+13. Consider Income Levels for Affordability:  
   - Consider offering financial education resources and set maximum loan amounts based on annual incomes below $40,000.  
   - Ensure loan affordability for borrowers.
